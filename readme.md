@@ -10,6 +10,7 @@
 ### Games
 - [FEZ](http://www.fezgame.com/)
 - [Sword & Sworcery](http://www.swordandsworcery.com/)
+- [Hyper Light Drifter](http://www.heart-machine.com/)
 - [Owlboy](http://www.owlboygame.com/)
 
 ### Artists
