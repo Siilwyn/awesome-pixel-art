@@ -13,10 +13,10 @@
 - [FEZ](http://www.fezgame.com/)
 
 ### Artists
-- [Toyoi Yuuta](http://1041uuu.tumblr.com/)
 - [Paul Robertson](http://probertson.tumblr.com/)
 - [Syosa](http://collet66.blog52.fc2.com/)
 - [Thomas Feichtmeir](http://cyangmou.deviantart.com/)
+- [Toyoi Yuuta](http://1041uuu.tumblr.com/)
 
 ## Tools
 - [Aseprite](http://aseprite.org/)
