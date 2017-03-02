@@ -8,9 +8,9 @@
 
 ## Inspiration
 ### Games
+- [FEZ](http://www.fezgame.com/)
 - [Sword & Sworcery](http://www.swordandsworcery.com/)
 - [Owlboy](http://www.owlboygame.com/)
-- [FEZ](http://www.fezgame.com/)
 
 ### Artists
 - [Paul Robertson](http://probertson.tumblr.com/)
