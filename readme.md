@@ -2,6 +2,14 @@
 
 Pixel art is a form of digital art, where images are edited on the pixel level. Every placed pixel has importance in creating the envisioned graphic.
 
+## Contents
+- [Tutorials](#tutorials)
+- [Inspiration](#inspiration)
+  - [Games](#games)
+  - [Artists](#artists)
+- [Tools](#tools)
+- [Community](#community)
+
 ## Tutorials
 - [Introduction to pixel art](http://pixeljoint.com/forum/forum_posts.asp?TID=11299)
 - [Walking animation for low-res sprites](http://www.manningkrull.com/pixel-art/walking.php)
