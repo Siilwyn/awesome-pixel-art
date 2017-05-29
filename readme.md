@@ -1,5 +1,7 @@
 # Awesome pixel art [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+Pixel art is a form of digital art, where images are edited on the pixel level. Every placed pixel has importance in creating the envisioned graphic.
+
 ## Tutorials
 - [Introduction to pixel art](http://pixeljoint.com/forum/forum_posts.asp?TID=11299)
 - [Walking animation for low-res sprites](http://www.manningkrull.com/pixel-art/walking.php)
