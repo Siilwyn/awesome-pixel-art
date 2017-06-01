@@ -11,11 +11,25 @@ Pixel art is a form of digital art, where images are edited on the pixel level. 
 - [Community](#community)
 
 ## Tutorials
+
+### Overall Guides
 - [Introduction to pixel art](http://pixeljoint.com/forum/forum_posts.asp?TID=11299)
+
+### Outline Tutorials
+- [Sam Keddy's "Pixel Art Outline Tutorial](http://samkeddy.com/pixel-art-outlines/) [Part 2](http://samkeddy.com/pixel-art-outlines-part-2-using-color/)
+
+### Color Reference
+- [Creating a Color Pallette](https://betterin2d.com/2014/08/02/pixel-art-tutorial-creating-a-colour-palette/)
+- [Open Game Art's "Colour Palettes"](https://opengameart.org/content/chapter-5-color-palettes)
+
+### Animation
 - [Walking animation for low-res sprites](http://www.manningkrull.com/pixel-art/walking.php)
+- [Paul Robertson and Jonathan "Persona-sama" Kim's Tips for animating 2D Games](http://www.gamasutra.com/view/news/176663/5_tips_for_making_great_animations_for_2D_games.php)
+
+### Other
 - [Creating a cube](http://vanmall.deviantart.com/art/How-to-start-with-pixel-art-121520884)
 - [Creating round objects](http://vanmall.deviantart.com/art/How-to-make-round-objects-in-pixel-art-347907700)
-- [Creating a Color Pallette](https://betterin2d.com/2014/08/02/pixel-art-tutorial-creating-a-colour-palette/)
+
 
 ## Inspiration
 ### Games
