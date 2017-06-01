@@ -15,6 +15,7 @@ Pixel art is a form of digital art, where images are edited on the pixel level. 
 - [Walking animation for low-res sprites](http://www.manningkrull.com/pixel-art/walking.php)
 - [Creating a cube](http://vanmall.deviantart.com/art/How-to-start-with-pixel-art-121520884)
 - [Creating round objects](http://vanmall.deviantart.com/art/How-to-make-round-objects-in-pixel-art-347907700)
+- [Creating a Color Pallette](https://betterin2d.com/2014/08/02/pixel-art-tutorial-creating-a-colour-palette/)
 
 ## Inspiration
 ### Games
@@ -37,6 +38,6 @@ Pixel art is a form of digital art, where images are edited on the pixel level. 
 - [Piskel](http://www.piskelapp.com/)
 
 ## Community
-- [Reddit](https://www.reddit.com/r/PixelArt/)
+- [Reddit /r/PixelArt](https://www.reddit.com/r/PixelArt/)
 - [Pixelation](http://pixelation.org/)
 - [Pixel Joint](http://pixeljoint.com/)
