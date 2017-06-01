@@ -7,7 +7,7 @@ Pixel art is a form of digital art, where images are edited on the pixel level. 
   - [Overall Guides](#overall-guides)
   - [Outline Tutorials](#outline-tutorials)
   - [Color Reference](#color-reference)
-  - [Animation[(#animation)
+  - [Animation](#animation)
   - [Other](#other)
 - [Inspiration](#inspiration)
   - [Games](#games)
