@@ -20,6 +20,7 @@ Pixel art is a form of digital art, where images are edited on the pixel level. 
 ### Games
 - [FEZ](http://www.fezgame.com/)
 - [Sword & Sworcery](http://www.swordandsworcery.com/)
+- [Shovel Knight: Treasure Trove](http://yachtclubgames.com/shovel-knight/)
 - [Hyper Light Drifter](http://www.heart-machine.com/)
 - [Owlboy](http://www.owlboygame.com/)
 
