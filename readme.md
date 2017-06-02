@@ -18,8 +18,8 @@ Pixel art is a form of digital art, where images are edited on the pixel level. 
 
 ## Inspiration
 ### Games
-- [FEZ](http://www.fezgame.com/)
-- [Sword & Sworcery](http://www.swordandsworcery.com/)
+- [FEZ](http://www.fezgame.com/) - revolves around perspective and exploring an ever-changing open-ended world. The minimalistic style, bright vibrant colors and dynamic lighting bring the 16-bit era into the future.
+- [Sword & Sworcery](http://www.swordandsworcery.com/) takes place in a sci-fi world that radiates light and warmth, kaleidoscopic neon, colorful sadness, fast-paced top-down action
 - [Hyper Light Drifter](http://www.heart-machine.com/)
 - [Owlboy](http://www.owlboygame.com/)
 
