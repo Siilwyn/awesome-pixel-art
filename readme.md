@@ -4,6 +4,9 @@ Pixel art is a form of digital art, where images are edited on the pixel level. 
 
 ## Contents
 - [Tutorials](#tutorials)
+  - [Basics](#basics)
+  - [Color](#color)
+  - [Animation](#animation)
 - [Inspiration](#inspiration)
   - [Games](#games)
   - [Artists](#artists)
@@ -11,10 +14,21 @@ Pixel art is a form of digital art, where images are edited on the pixel level. 
 - [Community](#community)
 
 ## Tutorials
+
+### Basics
 - [Introduction to pixel art](http://pixeljoint.com/forum/forum_posts.asp?TID=11299)
-- [Walking animation for low-res sprites](http://www.manningkrull.com/pixel-art/walking.php)
 - [Creating a cube](http://vanmall.deviantart.com/art/How-to-start-with-pixel-art-121520884)
 - [Creating round objects](http://vanmall.deviantart.com/art/How-to-make-round-objects-in-pixel-art-347907700)
+- [Outline basics](http://samkeddy.com/pixel-art-outlines/)
+- [Outline colors](http://samkeddy.com/pixel-art-outlines-part-2-using-color/)
+
+### Color
+- [Creating a color palette](https://betterin2d.com/2014/08/02/pixel-art-tutorial-creating-a-colour-palette/)
+- [Color palette and HSL](https://opengameart.org/content/chapter-5-color-palettes)
+
+### Animation
+- [Walking animation for low-res sprites](http://www.manningkrull.com/pixel-art/walking.php)
+- [Tips for animating 2D games](http://www.gamasutra.com/view/news/176663/5_tips_for_making_great_animations_for_2D_games.php)
 
 ## Inspiration
 ### Games
@@ -37,6 +51,6 @@ Pixel art is a form of digital art, where images are edited on the pixel level. 
 - [Piskel](http://www.piskelapp.com/)
 
 ## Community
-- [Reddit](https://www.reddit.com/r/PixelArt/)
+- [Reddit /r/PixelArt](https://www.reddit.com/r/PixelArt/)
 - [Pixelation](http://pixelation.org/)
 - [Pixel Joint](http://pixeljoint.com/)
