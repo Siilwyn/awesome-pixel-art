@@ -34,6 +34,7 @@ Pixel art is a form of digital art, where images are edited on the pixel level. 
 ### Games
 - [FEZ](http://www.fezgame.com/) - explore a 2D retrofuturistic world by rotating in the third dimension. The minimalistic style, bright vibrant colors and dynamic lighting bring the 16-bit era into the future.
 - [Superbrothers: Sword & Sworcery EP](http://www.swordandsworcery.com/) - laid back adventure in a bronze age mountain wilderness. Dreamy soft colors in a living world affected by moon phases.
+- [Shovel Knight: Treasure Trove](http://yachtclubgames.com/shovel-knight/) - classic action adventure with an 8-bit retro aesthetic, taking the looks of a modern NES game.
 - [Hyper Light Drifter](http://www.heart-machine.com/) - top-down action in a sci-fi world that radiates light and warmth. Using a colorful palette and kaleidoscopic neon yet setting a grim ambiance.
 - [Owlboy](http://www.owlboygame.com/) - explore a detailed steampunk world in the clouds. With it's range of endearing animations and expressions the world and it's characters come to life.
 
