@@ -45,11 +45,11 @@ Pixel art is a form of digital art, where images are edited on the pixel level. 
 - [Toyoi Yuuta](http://1041uuu.tumblr.com/) - Australian, capturing small animated scenes of everyday life in unsaturated colors.
 
 ## Tools
-- [Aseprite](http://aseprite.org/)
-- [Pixen](https://pixenapp.com/)
-- [Pro Motion](http://www.cosmigo.com/pixel_animation_software)
-- [GIMP](https://www.gimp.org/)
-- [Piskel](http://www.piskelapp.com/)
+- [Aseprite](http://aseprite.org/) - Open source, paid with trial version works on Linux, macOS and Windows. Awesome UI with a lot of nifty tools to ease pixel art creation.
+- [Pixen](https://pixenapp.com/) - Paid works on macOS and iOS. Superb OS integration, create pixel art on a tablet using pressure-sensitive drawing.
+- [Pro Motion](http://www.cosmigo.com/pixel_animation_software) - Paid with trial version works on Windows. Advanced features tailored to creating pixel art for games.
+- [GIMP](https://www.gimp.org/) - Open source and free, works on Linux, macOS and Windows. Not specifically for creating pixel art but is more than capable to do so.
+- [Piskel](http://www.piskelapp.com/) - Open source and free, works in the browser, on Linux, macOS and Windows. Easy to try out in the browser saving sprites online.
 
 ## Community
 - [Reddit /r/PixelArt](https://www.reddit.com/r/PixelArt/)
