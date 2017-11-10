@@ -39,6 +39,7 @@ Pixel-level digital art, every placed pixel has importance in creating the envis
 - [Shovel Knight: Treasure Trove](http://yachtclubgames.com/shovel-knight/) - Classic action adventure with an 8-bit retro aesthetic, taking the looks of a modern NES game.
 - [Hyper Light Drifter](http://www.heart-machine.com/) - Top-down action in a sci-fi world that radiates light and warmth. Using a colorful palette and kaleidoscopic neon yet setting a grim ambiance.
 - [Owlboy](http://www.owlboygame.com/) - Explore a detailed steampunk world in the clouds. With it's range of endearing animations and expressions the world and it's characters come to life.
+- [Stardew Valley](https://stardewvalley.net/) - Manage a farm from a top-down perspective and engage with a charming and cheerful world in 16-bit.
 
 ### Artists
 - [Paul Robertson](http://probertson.tumblr.com/) - Australian, creating cute, sometimes cosmic and psychedelic, and sometimes weird nightmarish pixel art.
