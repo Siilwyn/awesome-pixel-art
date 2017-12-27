@@ -34,6 +34,7 @@ Pixel-level digital art, every placed pixel has importance in creating the envis
 
 ## Inspiration
 ### Games
+- [Super Mario World 2: Yoshi's Island](https://en.wikipedia.org/wiki/Yoshi%27s_Island) - Play as Yoshi carrying Baby Mario, platforming through a dangerous world. The painted feel and soft pastel colors create an hearth-warming handmade style that breathes the charm of a children’s book.
 - [FEZ](http://www.fezgame.com/) - Explore a 2D retrofuturistic world by rotating in the third dimension. The minimalistic style, bright vibrant colors and dynamic lighting bring the 16-bit era into the future.
 - [Superbrothers: Sword & Sworcery EP](http://www.swordandsworcery.com/) - Laid back adventure in a bronze age mountain wilderness. Dreamy soft colors in a living world affected by moon phases.
 - [Shovel Knight: Treasure Trove](http://yachtclubgames.com/shovel-knight/) - Classic action adventure with an 8-bit retro aesthetic, taking the looks of a modern NES game.
