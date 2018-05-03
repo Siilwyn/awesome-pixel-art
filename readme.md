@@ -29,7 +29,7 @@ Pixel-level digital art, every placed pixel has importance in creating the envis
 - [Color palette and HSL](https://opengameart.org/content/chapter-5-color-palettes)
 
 ### Animation
-- [Walking animation for low-res sprites](http://www.manningkrull.com/pixel-art/walking.php)
+- [Walking animation cycle in games](https://finalbossblues.com/walk-cycles-p1/)
 - [Tips for animating 2D games](http://www.gamasutra.com/view/news/176663/5_tips_for_making_great_animations_for_2D_games.php)
 
 ## Inspiration
