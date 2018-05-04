@@ -13,7 +13,7 @@ Pixel-level digital art, every placed pixel has importance in creating the envis
   - [Games](#games)
   - [Artists](#artists)
 - [Tools](#tools)
-- [Community](#community)
+- [Communities](#communities)
 
 ## Tutorials
 
@@ -55,7 +55,7 @@ Pixel-level digital art, every placed pixel has importance in creating the envis
 - [GIMP](https://www.gimp.org/) - Open source and free, works on Linux, macOS and Windows. Not specifically for creating pixel art but is more than capable to do so.
 - [Piskel](http://www.piskelapp.com/) - Open source and free, works in the browser, on Linux, macOS and Windows. Easy to try out in the browser saving sprites online.
 
-## Community
+## Communities
 - [Reddit /r/PixelArt](https://www.reddit.com/r/PixelArt/)
 - [Pixelation](http://pixelation.org/)
 - [Pixel Joint](http://pixeljoint.com/)
