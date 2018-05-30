@@ -11,9 +11,10 @@ Awesome Pixel Art is a repository specifically dedicated to creating and learnin
   - [Animation](#animation)
 - [Inspiration](#inspiration)
   - [Games](#games)
+- [Community](#community)
   - [Artists](#artists)
+  - [Hubs](#hubs)
 - [Tools](#tools)
-- [Communities](#communities)
 
 ## Tutorials
 
@@ -42,11 +43,18 @@ Awesome Pixel Art is a repository specifically dedicated to creating and learnin
 - [Owlboy](http://www.owlboygame.com/) - Explore a detailed steampunk world in the clouds. With it's range of endearing animations and expressions the world and it's characters come to life.
 - [Stardew Valley](https://stardewvalley.net/) - Manage a farm from a top-down perspective and engage with a charming and cheerful world in 16-bit.
 
+## Community
+
 ### Artists
 - [Paul Robertson](http://probertson.tumblr.com/) - Australian, creating cute, sometimes cosmic and psychedelic, and sometimes weird nightmarish pixel art.
 - [Syosa](http://collet66.blog52.fc2.com/) - Japanese, girlish style using bright and organic color palletes creating cute humans and animals.
 - [Thomas Feichtmeir](http://cyangmou.deviantart.com/) - Australian, dark and mature: fan of knights, dinosaurs, pirates, epic beasts, anatomy and history as well as everything twisted and weird.
 - [Toyoi Yuuta](http://1041uuu.tumblr.com/) - Australian, capturing small animated scenes of everyday life in unsaturated colors.
+
+### Hubs
+- [Reddit /r/PixelArt](https://www.reddit.com/r/PixelArt/)
+- [Pixelation](http://pixelation.org/)
+- [Pixel Joint](http://pixeljoint.com/)
 
 ## Tools
 - [Aseprite](http://aseprite.org/) - Open source, paid with trial, works on Linux, macOS and Windows. Awesome UI with a lot of nifty tools to ease pixel art creation.
@@ -54,8 +62,3 @@ Awesome Pixel Art is a repository specifically dedicated to creating and learnin
 - [Pro Motion](http://www.cosmigo.com/pixel_animation_software) - Paid with trial, works on Windows. Advanced features tailored to creating pixel art for games.
 - [GIMP](https://www.gimp.org/) - Open source and free, works on Linux, macOS and Windows. Not specifically for creating pixel art but is more than capable to do so.
 - [Piskel](http://www.piskelapp.com/) - Open source and free, works in the browser, on Linux, macOS and Windows. Easy to try out in the browser saving sprites online.
-
-## Communities
-- [Reddit /r/PixelArt](https://www.reddit.com/r/PixelArt/)
-- [Pixelation](http://pixelation.org/)
-- [Pixel Joint](http://pixeljoint.com/)
