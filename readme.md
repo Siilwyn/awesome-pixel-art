@@ -2,7 +2,11 @@
 
 [<img src="https://cdn.rawgit.com/Siilwyn/awesome-pixel-art/1d81c507/sheep-timelapse.gif" align="right" width="118">](https://twitter.com/mnrART)
 
-Pixel-level digital art, every placed pixel has importance in creating the envisioned graphic.
+Awesome Pixel Art is a github repository specifically dedicated to creating and learning pixel art,
+as well as links that help you get engaged in the community! In pixel art, every placed pixel has importance
+in creating the envisioned graphic. Below you'll find help links ranging from basic introductory 
+elements to color and animation tutorials. There are plenty of points of inspiration in games, youtube animations,
+and among the community!
 
 ## Contents
 - [Tutorials](#tutorials)
