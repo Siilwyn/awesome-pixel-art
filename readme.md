@@ -2,7 +2,7 @@
 
 [<img src="https://cdn.rawgit.com/Siilwyn/awesome-pixel-art/1d81c507/sheep-timelapse.gif" align="right" width="118">](https://twitter.com/mnrART)
 
-[<img src="https://media.giphy.com/media/N3yLGQ1oMYfGU/giphy.gif" align="right" width="118">]
+[<img src="https://media.giphy.com/media/N3yLGQ1oMYfGU/giphy.gif" align="right" width="300">]
 
 Awesome Pixel Art is a github repository specifically dedicated to creating and learning pixel art,
 as well as links that help you get engaged in the community! In pixel art, every placed pixel has importance
