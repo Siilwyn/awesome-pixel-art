@@ -61,7 +61,7 @@ and among the community!
 - [Piskel](http://www.piskelapp.com/) - Open source and free, works in the browser, on Linux, macOS and Windows. Easy to try out in the browser saving sprites online.
 
 ## Communities
-
+[<img src="https://i.redd.it/3vyflhc6by011.gif" align="right" width="50"](https://www.reddit.com/r/PixelArt/?count=25&after=t3_8n9vnd)
 - [Reddit /r/PixelArt](https://www.reddit.com/r/PixelArt/)
 - [Pixelation](http://pixelation.org/)
 - [Pixel Joint](http://pixeljoint.com/)
