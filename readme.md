@@ -7,7 +7,7 @@ Awesome Pixel Art is a github repository specifically dedicated to creating and 
 as well as links that help you get engaged in the community! In pixel art, every placed pixel has importance
 in creating the envisioned graphic. Below you'll find help links ranging from basic introductory 
 elements to color and animation tutorials. There are plenty of points of inspiration in games, youtube animations,
-and among the community!
+and among other artists!
 
 ## Contents
 - [Tutorials](#tutorials)
