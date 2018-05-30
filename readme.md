@@ -54,7 +54,10 @@ and among the community!
 - [Syosa](http://collet66.blog52.fc2.com/) - Japanese, girlish style using bright and organic color palletes creating cute humans and animals.
 - [Thomas Feichtmeir](http://cyangmou.deviantart.com/) - Australian, dark and mature: fan of knights, dinosaurs, pirates, epic beasts, anatomy and history as well as everything twisted and weird.
 - [Toyoi Yuuta](http://1041uuu.tumblr.com/) - Australian, capturing small animated scenes of everyday life in unsaturated colors.
-- [
+
+## Community
+[<img src="https://media.giphy.com/media/9Dk0emRg9uw02H9yIN/giphy.gif" align="right" size="100">](https://media.giphy.com/media/9Dk0emRg9uw02H9yIN/giphy.gif)
+
 
 ## Tools
 - [Aseprite](http://aseprite.org/) - Open source, paid with trial, works on Linux, macOS and Windows. Awesome UI with a lot of nifty tools to ease pixel art creation.
