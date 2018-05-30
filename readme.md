@@ -52,7 +52,8 @@ and among other artists!
 
 ### Videos
 - [Sean Browning - Pixel Art Animation Reel 2018](https://vimeo.com/250991452) A collection of Sean Browning's pixel animations, ranging from simple scenes to recreations of popular shows like Steven's Universe and RWBY.
-
+- [Pixel Paul - An Interview with Pixel Artist and Animator Paul Veer](https://vimeo.com/68038321) Paul Veer, a professional pixel arist with work on games such as Super Crate Box, shares his interest in pixel art as well as his workflow and style breakdown.
+- [Totoro - 8-bit](https://vimeo.com/102267431) A short test clip of an artist (username whoispablo) recreating a Totoro scene
 
 ## Community
 [<img src="https://media.giphy.com/media/9Dk0emRg9uw02H9yIN/giphy.gif" align="right" size="100">](https://media.giphy.com/media/9Dk0emRg9uw02H9yIN/giphy.gif)
