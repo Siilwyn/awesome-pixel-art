@@ -16,9 +16,10 @@ and among other artists!
   - [Animation](#animation)
 - [Inspiration](#inspiration)
   - [Games](#games)
+- [Community](#community)
   - [Artists](#artists)
+  - [Hubs](#hubs)
 - [Tools](#tools)
-- [Communities](#communities)
 
 ## Tutorials
 [<img src="https://media.giphy.com/media/N3yLGQ1oMYfGU/giphy.gif" align="right" width="400">](https://www.reddit.com/r/gifs/comments/43rjdz/beautiful_pixel_art_gifs_as_desktop_backgrounds/?st=jhtjvyxh&sh=76342ae9)
