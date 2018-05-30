@@ -21,7 +21,7 @@ and among the community!
 - [Communities](#communities)
 
 ## Tutorials
-[<img src="https://media.giphy.com/media/N3yLGQ1oMYfGU/giphy.gif" align="center" width="400">](https://www.reddit.com/r/gifs/comments/43rjdz/beautiful_pixel_art_gifs_as_desktop_backgrounds/?st=jhtjvyxh&sh=76342ae9)
+[<img src="https://media.giphy.com/media/N3yLGQ1oMYfGU/giphy.gif" align="right" width="400">](https://www.reddit.com/r/gifs/comments/43rjdz/beautiful_pixel_art_gifs_as_desktop_backgrounds/?st=jhtjvyxh&sh=76342ae9)
 ### Basics
 - [Introduction to pixel art](http://pixeljoint.com/forum/forum_posts.asp?TID=11299)
 - [Creating a cube](http://vanmall.deviantart.com/art/How-to-start-with-pixel-art-121520884)
