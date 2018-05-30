@@ -11,6 +11,7 @@ Awesome Pixel Art is a repository specifically dedicated to creating and learnin
   - [Animation](#animation)
 - [Inspiration](#inspiration)
   - [Games](#games)
+  - [Videos](#videos)
 - [Community](#community)
   - [Artists](#artists)
   - [Hubs](#hubs)
@@ -42,6 +43,11 @@ Awesome Pixel Art is a repository specifically dedicated to creating and learnin
 - [Hyper Light Drifter](http://www.heart-machine.com/) - Top-down action in a sci-fi world that radiates light and warmth. Using a colorful palette and kaleidoscopic neon yet setting a grim ambiance.
 - [Owlboy](http://www.owlboygame.com/) - Explore a detailed steampunk world in the clouds. With it's range of endearing animations and expressions the world and it's characters come to life.
 - [Stardew Valley](https://stardewvalley.net/) - Manage a farm from a top-down perspective and engage with a charming and cheerful world in 16-bit.
+
+### Videos
+- [Sean Browning - Pixel Art Animation Reel 2018](https://vimeo.com/250991452) - A collection of Sean Browning's pixel animations, ranging from simple scenes to recreations of popular shows like Steven's Universe and RWBY.
+- [Pixel Paul - An Interview with Pixel Artist and Animator Paul Veer](https://vimeo.com/68038321) - Paul Veer, a professional pixel artist with work on games such as Super Crate Box, shares his interest in pixel art as well as his workflow and style breakdown.
+- [Totoro - 8-bit](https://vimeo.com/102267431) A short test clip of an artist recreating a Totoro scene.
 
 ## Community
 
