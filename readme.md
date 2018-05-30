@@ -51,7 +51,7 @@ and among other artists!
 - [To the Moon/Finding Paradise](http://freebirdgames.com/) - Heartfelt and tear-jerking storytelling about a mans dying wish. Beautiful soundtrack included. The pixel art is simplistic yet thorougly made, creating a warm fantasy feeling.'
 
 ### Videos
-
+- [Sean Browning - Pixel Art Animation Reel 2018](https://vimeo.com/250991452) A collection of Sean Browning's pixel animations, ranging from simple scenes to recreations of popular shows like Steven's Universe and RWBY.
 
 
 ## Community
