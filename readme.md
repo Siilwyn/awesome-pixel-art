@@ -65,4 +65,4 @@ and among the community!
 - [Reddit /r/PixelArt](https://www.reddit.com/r/PixelArt/)
 - [Pixelation](http://pixelation.org/)
 - [Pixel Joint](http://pixeljoint.com/)
-[<img src="https://media.giphy.com/media/N3yLGQ1oMYfGU/giphy.gif" align="right" width="300">]
+[<img src="https://media.giphy.com/media/N3yLGQ1oMYfGU/giphy.gif" align="right" width="300">](https://www.reddit.com/r/gifs/comments/43rjdz/beautiful_pixel_art_gifs_as_desktop_backgrounds/?st=jhtjvyxh&sh=76342ae9)
