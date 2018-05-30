@@ -16,6 +16,7 @@ and among other artists!
   - [Animation](#animation)
 - [Inspiration](#inspiration)
   - [Games](#games)
+  - [Videos](#videos)
 - [Community](#community)
   - [Artists](#artists)
   - [Hubs](#hubs)
