@@ -2,7 +2,6 @@
 
 [<img src="https://cdn.rawgit.com/Siilwyn/awesome-pixel-art/1d81c507/sheep-timelapse.gif" align="right" width="118">](https://twitter.com/mnrART)
 
-
 Awesome Pixel Art is a github repository specifically dedicated to creating and learning pixel art,
 as well as providing links that help you get engaged in the community! In pixel art, every placed pixel has importance
 in creating the envisioned graphic. Below you'll find help links ranging from basic introductory 
@@ -42,14 +41,14 @@ and among other artists!
 ## Inspiration
 ### Games
 - [Super Mario World 2: Yoshi's Island](https://en.wikipedia.org/wiki/Yoshi%27s_Island) - Play as Yoshi carrying Baby Mario, platforming through a dangerous world. The painted feel and soft pastel colors create an hearth-warming handmade style that breathes the charm of a children’s book.
+- [To the Moon/Finding Paradise](http://freebirdgames.com/) - Heartfelt and tear-jerking storytelling about a mans dying wish. Beautiful soundtrack included. The pixel art is simplistic yet thorougly made, creating a warm fantasy feeling.'
 - [FEZ](http://www.fezgame.com/) - Explore a 2D retrofuturistic world by rotating in the third dimension. The minimalistic style, bright vibrant colors and dynamic lighting bring the 16-bit era into the future.
 - [Superbrothers: Sword & Sworcery EP](http://www.swordandsworcery.com/) - Laid back adventure in a bronze age mountain wilderness. Dreamy soft colors in a living world affected by moon phases.
 - [Shovel Knight: Treasure Trove](http://yachtclubgames.com/shovel-knight/) - Classic action adventure with an 8-bit retro aesthetic, taking the looks of a modern NES game.
 - [Hyper Light Drifter](http://www.heart-machine.com/) - Top-down action in a sci-fi world that radiates light and warmth. Using a colorful palette and kaleidoscopic neon yet setting a grim ambiance.
+- [Starbound](https://playstarbound.com/) - Made by the same developers as Stardew Valley, Starbound takes you on a voxel-based journey across multiple galaxies, collecting resources, befriending locals, fighting bosses, and levelling your gear along the way.
 - [Owlboy](http://www.owlboygame.com/) - Explore a detailed steampunk world in the clouds. With it's range of endearing animations and expressions the world and it's characters come to life.
 - [Stardew Valley](https://stardewvalley.net/) - Manage a farm from a top-down perspective and engage with a charming and cheerful world in 16-bit.
-- [Starbound](https://playstarbound.com/) - Made by the same developers as Stardew Valley, Starbound takes you on a voxel-based journey across multiple galaxies, collecting resources, befriending locals, fighting bosses, and levelling your gear along the way.
-- [To the Moon/Finding Paradise](http://freebirdgames.com/) - Heartfelt and tear-jerking storytelling about a mans dying wish. Beautiful soundtrack included. The pixel art is simplistic yet thorougly made, creating a warm fantasy feeling.'
 
 ### Videos
 - [Sean Browning - Pixel Art Animation Reel 2018](https://vimeo.com/250991452) A collection of Sean Browning's pixel animations, ranging from simple scenes to recreations of popular shows like Steven's Universe and RWBY.
@@ -69,7 +68,6 @@ and among other artists!
 - [Reddit /r/PixelArt](https://www.reddit.com/r/PixelArt/)
 - [Pixelation](http://pixelation.org/)
 - [Pixel Joint](http://pixeljoint.com/)
-
 
 ## Tools
 [<img src="https://i.redd.it/3vyflhc6by011.gif" align="right" width="64">](https://www.reddit.com/r/PixelArt/?count=25&after=t3_8n9vnd)
