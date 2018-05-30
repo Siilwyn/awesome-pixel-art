@@ -2,7 +2,6 @@
 
 [<img src="https://cdn.rawgit.com/Siilwyn/awesome-pixel-art/1d81c507/sheep-timelapse.gif" align="right" width="118">](https://twitter.com/mnrART)
 
-[<img src="https://media.giphy.com/media/N3yLGQ1oMYfGU/giphy.gif" align="right" width="300">]
 
 Awesome Pixel Art is a github repository specifically dedicated to creating and learning pixel art,
 as well as links that help you get engaged in the community! In pixel art, every placed pixel has importance
@@ -62,6 +61,9 @@ and among the community!
 - [Piskel](http://www.piskelapp.com/) - Open source and free, works in the browser, on Linux, macOS and Windows. Easy to try out in the browser saving sprites online.
 
 ## Communities
+
+[<img src="https://media.giphy.com/media/N3yLGQ1oMYfGU/giphy.gif" align="right" width="300">]
+
 - [Reddit /r/PixelArt](https://www.reddit.com/r/PixelArt/)
 - [Pixelation](http://pixelation.org/)
 - [Pixel Joint](http://pixeljoint.com/)
