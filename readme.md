@@ -67,13 +67,11 @@ and among the community!
 
 
 ## Tools
+[<img src="https://i.redd.it/3vyflhc6by011.gif" align="right" width="64">](https://www.reddit.com/r/PixelArt/?count=25&after=t3_8n9vnd)
 - [Aseprite](http://aseprite.org/) - Open source, paid with trial, works on Linux, macOS and Windows. Awesome UI with a lot of nifty tools to ease pixel art creation.
 - [Pixen](https://pixenapp.com/) - Paid, works on macOS and iOS. Superb OS integration, create pixel art on a tablet using pressure-sensitive drawing.
 - [Pro Motion](http://www.cosmigo.com/pixel_animation_software) - Paid with trial, works on Windows. Advanced features tailored to creating pixel art for games.
 - [GIMP](https://www.gimp.org/) - Open source and free, works on Linux, macOS and Windows. Not specifically for creating pixel art but is more than capable to do so.
 - [Piskel](http://www.piskelapp.com/) - Open source and free, works in the browser, on Linux, macOS and Windows. Easy to try out in the browser saving sprites online.
-
-## Communities
-[<img src="https://i.redd.it/3vyflhc6by011.gif" align="right" width="64">](https://www.reddit.com/r/PixelArt/?count=25&after=t3_8n9vnd)
 
 
