@@ -46,6 +46,8 @@ and among the community!
 - [Hyper Light Drifter](http://www.heart-machine.com/) - Top-down action in a sci-fi world that radiates light and warmth. Using a colorful palette and kaleidoscopic neon yet setting a grim ambiance.
 - [Owlboy](http://www.owlboygame.com/) - Explore a detailed steampunk world in the clouds. With it's range of endearing animations and expressions the world and it's characters come to life.
 - [Stardew Valley](https://stardewvalley.net/) - Manage a farm from a top-down perspective and engage with a charming and cheerful world in 16-bit.
+- [Starbound](https://playstarbound.com/) - Made by the same developers as Stardew Valley, Starbound takes you on a voxel-based journey across multiple galaxies, collecting resources, befriending locals, fighting bosses, and levelling your gear along the way.
+- [To the Moon/Finding Paradise](http://freebirdgames.com/) - Heartfelt and tear-jerking storytelling about a mans dying wish. Beautiful soundtrack included. The pixel art is simplistic yet thorougly made, creating a warm fantasy feeling.
 
 ### Artists
 - [Paul Robertson](http://probertson.tumblr.com/) - Australian, creating cute, sometimes cosmic and psychedelic, and sometimes weird nightmarish pixel art.
