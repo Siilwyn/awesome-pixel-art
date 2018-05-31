@@ -22,7 +22,7 @@ and among other artists!
 - [Tools](#tools)
 
 ## Tutorials
-[<img src="https://media.giphy.com/media/N3yLGQ1oMYfGU/giphy.gif" align="right" width="400">](https://www.reddit.com/r/gifs/comments/43rjdz/beautiful_pixel_art_gifs_as_desktop_backgrounds/?st=jhtjvyxh&sh=76342ae9)
+
 ### Basics
 - [Introduction to pixel art](http://pixeljoint.com/forum/forum_posts.asp?TID=11299)
 - [Creating a cube](http://vanmall.deviantart.com/art/How-to-start-with-pixel-art-121520884)
@@ -56,7 +56,7 @@ and among other artists!
 - [Totoro - 8-bit](https://vimeo.com/102267431) A short test clip of an artist (username whoispablo) recreating a Totoro scene.
 
 ## Community
-[<img src="https://media.giphy.com/media/9Dk0emRg9uw02H9yIN/giphy.gif" align="right" size="100">](https://media.giphy.com/media/9Dk0emRg9uw02H9yIN/giphy.gif)
+
 
 ### Artists
 - [Paul Robertson](http://probertson.tumblr.com/) - Australian, creating cute, sometimes cosmic and psychedelic, and sometimes weird nightmarish pixel art.
@@ -70,7 +70,7 @@ and among other artists!
 - [Pixel Joint](http://pixeljoint.com/)
 
 ## Tools
-[<img src="https://i.redd.it/3vyflhc6by011.gif" align="right" width="64">](https://www.reddit.com/r/PixelArt/?count=25&after=t3_8n9vnd)
+
 - [Aseprite](http://aseprite.org/) - Open source, paid with trial, works on Linux, macOS and Windows. Awesome UI with a lot of nifty tools to ease pixel art creation.
 - [Pixen](https://pixenapp.com/) - Paid, works on macOS and iOS. Superb OS integration, create pixel art on a tablet using pressure-sensitive drawing.
 - [Pro Motion](http://www.cosmigo.com/pixel_animation_software) - Paid with trial, works on Windows. Advanced features tailored to creating pixel art for games.
