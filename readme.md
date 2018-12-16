@@ -61,6 +61,7 @@ Awesome Pixel Art is a repository specifically dedicated to creating and learnin
 - [Syosa](http://collet66.blog52.fc2.com/) - Japanese, girlish style using bright and organic color palletes creating cute humans and animals.
 - [Thomas Feichtmeir](http://cyangmou.deviantart.com/) - Australian, dark and mature: fan of knights, dinosaurs, pirates, epic beasts, anatomy and history as well as everything twisted and weird.
 - [Toyoi Yuuta](http://1041uuu.tumblr.com/) - Australian, capturing small animated scenes of everyday life in unsaturated colors.
+- [Slynyrd](https://www.patreon.com/slynyrd) - American, game designer with tons of material, game specific knowledge and mini-tutorials.
 
 ### Hubs
 - [Reddit /r/PixelArt](https://www.reddit.com/r/PixelArt/)
