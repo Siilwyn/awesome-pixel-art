@@ -70,7 +70,9 @@ Awesome Pixel Art is a repository specifically dedicated to creating and learnin
 
 ## Editors
 - [Aseprite](http://aseprite.org/) - Open source, paid with trial, works on Linux, macOS and Windows. Awesome UI with a lot of nifty tools to ease pixel art creation.
+- [MagicaVoxel](https://ephtracy.github.io/) - A free lightweight 8-bit voxel art editor and interactive path tracing renderer.
 - [Pixen](https://pixenapp.com/) - Paid, works on macOS and iOS. Superb OS integration, create pixel art on a tablet using pressure-sensitive drawing.
 - [Pro Motion](http://www.cosmigo.com/pixel_animation_software) - Paid with trial, works on Windows. Advanced features tailored to creating pixel art for games.
 - [GIMP](https://www.gimp.org/) - Open source and free, works on Linux, macOS and Windows. Not specifically for creating pixel art but is more than capable to do so.
 - [Piskel](http://www.piskelapp.com/) - Open source and free, works in the browser, on Linux, macOS and Windows. Easy to try out in the browser saving sprites online.
+- [Goxel](https://guillaumechereau.github.io/goxel/) - Open Source 3D voxel editor for Mac Windows and Linux.
