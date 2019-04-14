@@ -60,6 +60,7 @@ Awesome Pixel Art is a repository specifically dedicated to creating and learnin
 - [Paul Robertson](http://probertson.tumblr.com/) - Australian, creating cute, sometimes cosmic and psychedelic, and sometimes weird nightmarish pixel art.
 - [Syosa](http://collet66.blog52.fc2.com/) - Japanese, girlish style using bright and organic color palletes creating cute humans and animals.
 - [Thomas Feichtmeir](http://cyangmou.deviantart.com/) - Australian, dark and mature: fan of knights, dinosaurs, pirates, epic beasts, anatomy and history as well as everything twisted and weird.
+- [Jenn Schiffer](http://jennmoney.biz/) - American, web app developer, pixel artist, and tech satirist.
 - [Toyoi Yuuta](http://1041uuu.tumblr.com/) - Australian, capturing small animated scenes of everyday life in unsaturated colors.
 - [Slynyrd](https://www.patreon.com/slynyrd) - American, game designer with tons of material, game specific knowledge and mini-tutorials.
 
@@ -74,3 +75,4 @@ Awesome Pixel Art is a repository specifically dedicated to creating and learnin
 - [Pro Motion](http://www.cosmigo.com/pixel_animation_software) - Paid with trial, works on Windows. Advanced features tailored to creating pixel art for games.
 - [GIMP](https://www.gimp.org/) - Open source and free, works on Linux, macOS and Windows. Not specifically for creating pixel art but is more than capable to do so.
 - [Piskel](http://www.piskelapp.com/) - Open source and free, works in the browser, on Linux, macOS and Windows. Easy to try out in the browser saving sprites online.
+- [Make 8-bit Art](http://make8bitart.com/) - Open source and free, in-browser web app.
