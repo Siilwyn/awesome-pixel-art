@@ -7,6 +7,7 @@ Please ensure your pull request follows these guidelines:
 - New categories or improvements to the existing categorization are welcome.
 - Check your spelling and grammar.
 - The pull request and commit should have a useful title, check the past commits to get an idea.
+- Only safe for work content, I'm open to change this.
 
 Additions should be added to the bottom of the relevant category except for:
 - tutorials: ordered by content specificity
