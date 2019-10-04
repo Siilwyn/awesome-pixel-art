@@ -57,6 +57,7 @@ Awesome Pixel Art is a repository specifically dedicated to creating and learnin
 ## Community
 
 ### Artists
+- [eBoy](http://hello.eboy.com/eboy/) - German, pixel art group founded in 1997 by Kai Vermehr, Steffen Sauerteig and Svend Smital. They are regarded as the “Godfathers of Pixel Art”.
 - [Paul Robertson](http://probertson.tumblr.com/) - Australian, creating cute, sometimes cosmic and psychedelic, and sometimes weird nightmarish pixel art.
 - [Syosa](http://collet66.blog52.fc2.com/) - Japanese, girlish style using bright and organic color palletes creating cute humans and animals.
 - [Thomas Feichtmeir](http://cyangmou.deviantart.com/) - Australian, dark and mature: fan of knights, dinosaurs, pirates, epic beasts, anatomy and history as well as everything twisted and weird.
