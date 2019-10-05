@@ -74,4 +74,4 @@ Awesome Pixel Art is a repository specifically dedicated to creating and learnin
 - [Pro Motion](http://www.cosmigo.com/pixel_animation_software) - Paid with trial, works on Windows. Advanced features tailored to creating pixel art for games.
 - [GIMP](https://www.gimp.org/) - Open source and free, works on Linux, macOS and Windows. Not specifically for creating pixel art but is more than capable to do so.
 - [Piskel](http://www.piskelapp.com/) - Open source and free, works in the browser, on Linux, macOS and Windows. Easy to try out in the browser saving sprites online.
-- [rx](https://cloudhead.io/rx/) - A minimalist and extensible pixel editor implemented in Rust. Open source and free, works on all platforms.
+- [rx](https://cloudhead.io/rx/) - Open source and free, works on Linux, macOS and Windows. Minimalist and keyboard driven with animation support.
