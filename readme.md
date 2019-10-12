@@ -72,7 +72,7 @@ Awesome Pixel Art is a repository specifically dedicated to creating and learnin
 - [Pixel Joint](http://pixeljoint.com/)
 
 ## Editors
-- [Aseprite](http://aseprite.org/) - Open source, paid with trial, works on Linux, macOS and Windows. Awesome UI with a lot of nifty tools to ease pixel art creation.
+- [Aseprite](http://aseprite.org/) - Paid and source-available, works on Linux, macOS and Windows. Awesome UI with a lot of nifty tools to ease pixel art creation.
 - [Pixen](https://pixenapp.com/) - Paid, works on macOS and iOS. Superb OS integration, create pixel art on a tablet using pressure-sensitive drawing.
 - [Pro Motion](http://www.cosmigo.com/pixel_animation_software) - Paid with trial, works on Windows. Advanced features tailored to creating pixel art for games.
 - [GIMP](https://www.gimp.org/) - Open source and free, works on Linux, macOS and Windows. Not specifically for creating pixel art but is more than capable to do so.
