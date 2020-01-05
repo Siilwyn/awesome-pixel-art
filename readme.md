@@ -22,11 +22,11 @@ Awesome Pixel Art is a repository specifically dedicated to creating and learnin
 
 ### Basics
 - [Introduction to pixel art](http://pixeljoint.com/forum/forum_posts.asp?TID=11299)
-- [Introduction to pixel art - An absolute beginner’s guide](https://medium.com/pixel-grimoire/intro/home)
 - [Creating a cube](http://vanmall.deviantart.com/art/How-to-start-with-pixel-art-121520884)
 - [Creating round objects](http://vanmall.deviantart.com/art/How-to-make-round-objects-in-pixel-art-347907700)
 - [Outline basics](http://samkeddy.com/pixel-art-outlines/)
 - [Outline colors](http://samkeddy.com/pixel-art-outlines-part-2-using-color/)
+- [Getting started from scratch with Aseprite](https://medium.com/pixel-grimoire/how-to-start-making-pixel-art-2d1e31a5ceab)
 
 ### Color
 - [Creating a color palette](https://betterin2d.com/2014/08/02/pixel-art-tutorial-creating-a-colour-palette/)
