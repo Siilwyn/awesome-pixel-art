@@ -22,6 +22,7 @@ Awesome Pixel Art is a repository specifically dedicated to creating and learnin
 
 ### Basics
 - [Introduction to pixel art](http://pixeljoint.com/forum/forum_posts.asp?TID=11299)
+- [Introduction to pixel art - An absolute beginner’s guide](https://medium.com/pixel-grimoire/intro/home)
 - [Creating a cube](http://vanmall.deviantart.com/art/How-to-start-with-pixel-art-121520884)
 - [Creating round objects](http://vanmall.deviantart.com/art/How-to-make-round-objects-in-pixel-art-347907700)
 - [Outline basics](http://samkeddy.com/pixel-art-outlines/)
