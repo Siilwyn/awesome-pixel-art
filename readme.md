@@ -37,6 +37,9 @@ Awesome Pixel Art is a repository specifically dedicated to creating and learnin
 - [Walking animation cycle in games](https://finalbossblues.com/walk-cycles-p1/)
 - [Tips for animating 2D games](http://www.gamasutra.com/view/news/176663/5_tips_for_making_great_animations_for_2D_games.php)
 
+## Books
+- [Pixel logic](https://gumroad.com/l/pixel-logic) - Pixel Logic is an in-depth pixel art tutorial book
+
 ## Inspiration
 ### Games
 - [Super Mario World 2: Yoshi's Island](https://en.wikipedia.org/wiki/Yoshi%27s_Island) - Play as Yoshi carrying Baby Mario, platforming through a dangerous world. The painted feel and soft pastel colors create an hearth-warming handmade style that breathes the charm of a children’s book.
