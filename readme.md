@@ -9,6 +9,7 @@ Awesome Pixel Art is a repository specifically dedicated to creating and learnin
   - [Basics](#basics)
   - [Color](#color)
   - [Animation](#animation)
+- [Books](#books)
 - [Inspiration](#inspiration)
   - [Games](#games)
   - [Videos](#videos)
