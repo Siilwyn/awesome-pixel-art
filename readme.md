@@ -84,3 +84,5 @@ Awesome Pixel Art is a repository specifically dedicated to creating and learnin
 - [GIMP](https://www.gimp.org/) - Open source and free, works on Linux, macOS and Windows. Not specifically for creating pixel art but is more than capable to do so.
 - [Piskel](http://www.piskelapp.com/) - Open source and free, works in the browser, on Linux, macOS and Windows. Easy to try out in the browser saving sprites online.
 - [rx](https://rx.cloudhead.io/) - Open source and free, works on Linux, macOS and Windows. Minimalist and keyboard driven with animation support.
+- [Libresprite](http://www.libresprite.org/) - Open source descended from Aseprite, works on all three major desktop platforms.
+- [Pixelorama](https://orama-interactive.itch.io/pixelorama) - Open source, build in Godot.
