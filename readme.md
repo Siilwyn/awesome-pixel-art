@@ -18,7 +18,9 @@ Awesome Pixel Art is a repository specifically dedicated to creating and learnin
 - [Community](#community)
   - [Artists](#artists)
   - [Hubs](#hubs)
-- [Editors](#editors)
+- [Tools](#tools) 
+  - [Editors](#editors)
+  - [Miscellaneous](#miscellaneous)
 
 ## Tutorials
 
@@ -78,7 +80,9 @@ Awesome Pixel Art is a repository specifically dedicated to creating and learnin
 - [Pixelation](http://pixelation.org/)
 - [Pixel Joint](http://pixeljoint.com/)
 
-## Editors
+## Tools
+
+### Editors
 - [Aseprite](http://aseprite.org/) - Paid and source-available, works on Linux, macOS and Windows. Awesome UI with a lot of nifty tools to ease pixel art creation.
 - [Pixen](https://pixenapp.com/) - Paid, works on macOS and iOS. Superb OS integration, create pixel art on a tablet using pressure-sensitive drawing.
 - [Pro Motion](http://www.cosmigo.com/pixel_animation_software) - Paid with trial, works on Windows. Advanced features tailored to creating pixel art for games.
@@ -86,3 +90,7 @@ Awesome Pixel Art is a repository specifically dedicated to creating and learnin
 - [PixelCraft](https://rgab1508.github.io/PixelCraft/) - Open source and free, works in the browser. Easy to try out in the browser and as a PWA offline.
 - [rx](https://rx.cloudhead.io/) - Open source and free, works on Linux, macOS and Windows. Minimalist and keyboard driven with animation support.
 - [Wobblepaint](https://www.lexaloffle.com/bbs/?tid=40058) - Pico8 editor that give life to pixel art with a little wobble.
+
+### Miscellaneous
+- [Broider](https://maxbittker.github.io/broider/) - Make 9-patch borders, export as CSS.
+- [pixeldudesmaker](https://0x72.itch.io/pixeldudesmaker) - Small character generator, including basic animation.
