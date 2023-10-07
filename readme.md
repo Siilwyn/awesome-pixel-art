@@ -95,3 +95,4 @@ Awesome Pixel Art is a repository specifically dedicated to creating and learnin
 ### Miscellaneous
 - [Broider](https://maxbittker.github.io/broider/) - Make 9-patch borders, export as CSS.
 - [pixeldudesmaker](https://0x72.itch.io/pixeldudesmaker) - Small character generator, including basic animation.
+- [Pixelated Morphing](https://github.com/thehemen/pixelated-morphing) - Generate pixelated characters by using the morphing algorithm.
