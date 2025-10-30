@@ -50,6 +50,7 @@ Awesome Pixel Art is a repository specifically dedicated to creating and learnin
 - [Super Mario World 2: Yoshi's Island](https://en.wikipedia.org/wiki/Yoshi%27s_Island) - Play as Yoshi carrying Baby Mario, platforming through a dangerous world. The painted feel and soft pastel colors create an hearth-warming handmade style that breathes the charm of a children’s book.
 - [FEZ](http://www.fezgame.com/) - Explore a 2D retrofuturistic world by rotating in the third dimension. The minimalistic style, bright vibrant colors and dynamic lighting bring the 16-bit era into the future.
 - [Superbrothers: Sword & Sworcery EP](http://www.swordandsworcery.com/) - Laid back adventure in a bronze age mountain wilderness. Dreamy soft colors in a living world affected by moon phases.
+- [Undertale](https://undertale.com/) - A story-driven RPG where you explore a world of monsters. Turn-based combat. Retro 16-bit visuals, a rich narrative, and multiple endings based on your choices.
 - [Shovel Knight: Treasure Trove](http://yachtclubgames.com/shovel-knight/) - Classic action adventure with an 8-bit retro aesthetic, taking the looks of a modern NES game.
 - [Hyper Light Drifter](https://heartmachine.com/hyper-light) - Top-down action in a sci-fi world that radiates light and warmth. Using a colorful palette and kaleidoscopic neon yet setting a grim ambiance.
 - [Owlboy](http://www.owlboygame.com/) - Explore a detailed steampunk world in the clouds. With it's range of endearing animations and expressions the world and it's characters come to life.
@@ -57,9 +58,6 @@ Awesome Pixel Art is a repository specifically dedicated to creating and learnin
 - [Starbound](https://playstarbound.com/) - Travel across vibrant, colorful and expansive galaxies, including creative dynamic animations.
 - [Void Golf](https://cactusmancer.itch.io/void-golf) - Shoot giant pieces of space rock into black holes, using gravitational fields, physics-defying walls and wormholes in a minimalist top-down view.
 - [Minit](https://www.devolverdigital.com/games/minit) - With a minimalistic design (only two colors palette). Minit is an adventure where each exploration journey is limited to 60 seconds.
-- [Chained Echoes](https://www.chainedechoes.com/) - A story-driven RPG with 16-bit visuals and turn-based combat. Rich narrative and expansive world.
-- [Moonstone Island](https://store.steampowered.com/app/1658150/Moonstone_Island/) - Set on floating islands, blending life sim, creature collecting and alchemy.
-- [Fields of Mistria](https://fieldsofmistria.com/) - A life sim and farming that mixes cozy farming mechanics with magic, relationships, and exploration in a colorful fantasy world.
 
 ### Videos
 - [Sean Browning - Pixel Art Animation Reel 2018](https://vimeo.com/250991452) - A collection of Sean Browning's pixel animations, ranging from simple scenes to recreations of popular shows like Steven's Universe and RWBY.
