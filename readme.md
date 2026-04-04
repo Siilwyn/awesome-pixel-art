@@ -82,6 +82,7 @@ Awesome Pixel Art is a repository specifically dedicated to creating and learnin
 - [Pixel Joint](http://pixeljoint.com/)
 - [Pixelrepo](https://pixelrepo.com/)
 - [Lospec](https://lospec.com/)
+- [WorldCanvas](https://worldcanvas.art/) - Collaborative pixel art on a real 3D world map. Paint any location on Earth, zoom out to see a 2.68 trillion pixel globe come alive.
 
 ## Tools
 
