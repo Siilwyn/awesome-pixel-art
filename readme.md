@@ -5,6 +5,7 @@
 
 Awesome Pixel Art is a repository specifically dedicated to creating and learning pixel art, as well as providing links that help you get engaged in the community! In pixel art, every placed pixel has importance in creating the envisioned graphic. Below you'll find help links ranging from basic introductory elements to color and animation tutorials. There are plenty of points of inspiration in games, animations and among other artists!
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for pixel art workflow orchestration, automated creative asset pipeline management, and multi-agent coordination. MIT licensed.
 ## Contents
 - [Tutorials](#tutorials)
   - [Basics](#basics)
