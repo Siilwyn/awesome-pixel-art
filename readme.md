@@ -38,6 +38,7 @@ Awesome Pixel Art is a repository specifically dedicated to creating and learnin
 - [Moawling's color palette process](https://twitter.com/i/moments/948249159425056769)
 
 ### Animation
+- [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 - [Walking animation cycle in games](https://finalbossblues.com/walk-cycles-p1/)
 - [Tips for animating 2D games](http://www.gamasutra.com/view/news/176663/5_tips_for_making_great_animations_for_2D_games.php)
 
