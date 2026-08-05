@@ -99,3 +99,4 @@ Awesome Pixel Art is a repository specifically dedicated to creating and learnin
 - [Broider](https://maxbittker.github.io/broider/) - Make 9-patch borders, export as CSS.
 - [pixeldudesmaker](https://0x72.itch.io/pixeldudesmaker) - Small character generator, including basic animation.
 - [PixelArtChallenge](https://pixelartchallenge.net) - Pixel art recreation challenges, practice solo or compete in real-time 1v1 matches.
+- [Palette Extractor](https://pixelpixi.github.io/spritewright/palette-extractor/) - Free and works in the browser. Pull a sprite's exact palette, export .gpl, Lospec .hex, CSS or JSON.
