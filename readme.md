@@ -95,6 +95,7 @@ Awesome Pixel Art is a repository specifically dedicated to creating and learnin
 - [Wobblepaint](https://www.lexaloffle.com/bbs/?tid=40058) - Pico8 editor that give life to pixel art with a little wobble.
 - [Pixelrepo](https://pixelrepo.com/editor) - Free and works in the browser. Import files and palettes, save locally. Minimalist, easy to use, and perfect for quick pixel art editing.
 - [Draw!](https://pixel.drawbang.com) - Editor for creating tiny GIF animations. Open source and free, works in the browser.
+- [Phluxel](https://phluxel.com/) - Paid with a free edition and a [browser demo](https://phluxel.com/demo/), works on Windows. Animates pixel art with cellular automata: paint a grid, write one small rule, and watch it come alive.
 
 ### Miscellaneous
 - [Broider](https://maxbittker.github.io/broider/) - Make 9-patch borders, export as CSS.
