@@ -8,6 +8,7 @@ Please ensure your pull request follows these guidelines:
 - Check your spelling and grammar.
 - The pull request and commit should have a useful title, check the past commits to get an idea.
 - Only safe for work content, I'm open to change this.
+- Suggested work/project should be maintained for over at-least a year.
 
 Additions should be added to the bottom of the relevant category except for:
 - tutorials: ordered by content specificity
