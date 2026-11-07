@@ -96,6 +96,7 @@ Awesome Pixel Art is a repository specifically dedicated to creating and learnin
 - [Pixelrepo](https://pixelrepo.com/editor) - Free and works in the browser. Import files and palettes, save locally. Minimalist, easy to use, and perfect for quick pixel art editing.
 - [Draw!](https://pixel.drawbang.com) - Editor for creating tiny GIF animations. Open source and free, works in the browser.
 - [Tessarium](https://joelj.itch.io/tessarium) - Free with paid upgrade, works on Linux, macOS, Windows and in the browser. Tile-first level editor where editing a tile updates every placement.
+- [Pixlove](https://pixlove.org/) - Free, works in the browser and as an offline PWA. Layers, animation and text layers, plus a community gallery and challenges.
 
 ### Miscellaneous
 - [Broider](https://maxbittker.github.io/broider/) - Make 9-patch borders, export as CSS.
