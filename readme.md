@@ -102,3 +102,4 @@ Awesome Pixel Art is a repository specifically dedicated to creating and learnin
 - [pixeldudesmaker](https://0x72.itch.io/pixeldudesmaker) - Small character generator, including basic animation.
 - [PixelArtChallenge](https://pixelartchallenge.net) - Pixel art recreation challenges, practice solo or compete in real-time 1v1 matches.
 - [Palette Extractor](https://pixelpixi.github.io/spritewright/palette-extractor/) - Free and works in the browser. Pull a sprite's exact palette, export .gpl, Lospec .hex, CSS or JSON.
+- [Palette Swap & Dithering](https://voidless.dev/tools/palette-swap) - Free and works in the browser. Recolor a sprite color by color, or dither images to 1-bit, Game Boy or CGA palettes.
